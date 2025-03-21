@@ -1,6 +1,7 @@
 # Git and GitHub Workshop
 
 ## git
+This is the change in git-hub I made.
 
 git is a version control software.
 It allows you to take snapshots (called commits) of your project, so you can easily track the changes made to a project.
